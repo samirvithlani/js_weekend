@@ -1,0 +1,24 @@
+2 type of funciton
+
+pre define  ......
+user define ......
+
+4 -->
+with return type with argus
+without return wo argus
+
+
+array method
+length
+reverse
+sort
+custome sort()
+fill
+join
+pop
+push
+splice
+indexOf
+lastIndexOf
+findInde
+find
